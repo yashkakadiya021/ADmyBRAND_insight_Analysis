@@ -56,6 +56,9 @@ This project delivers a seamless dashboard experience that visualizes key metric
   </tbody>
 </table>
 
+<img width="678" height="597" alt="ADmyBRAND Insight Analysis 🚀 - visual selection (5)" src="https://github.com/user-attachments/assets/7a251f6f-9cf9-4cc1-b3c0-2e32a54458bf" />
+
+
 <hr>
 
 <h2>📂 Project Structure</h2>
