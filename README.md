@@ -72,6 +72,9 @@ This project delivers a seamless dashboard experience that visualizes key metric
 └── README.md
 </code></pre>
 
+<img width="1001" height="513" alt="ADmyBRAND Insight Analysis 🚀 - visual selection (3)" src="https://github.com/user-attachments/assets/e9e7d41e-911e-42fe-b7aa-67bb9757ba29" />
+
+
 <hr>
 
 <h2>🚀 How to Run Locally</h2>
