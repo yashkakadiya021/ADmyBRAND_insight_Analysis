@@ -56,7 +56,7 @@ This project delivers a seamless dashboard experience that visualizes key metric
 <hr>
 
 <h2>📂 Project Structure</h2>
-<pre>
+<pre><code>
 📁 ADmyBRAND_insight_Analysis/
 ├── static/
 │   ├── css/
@@ -67,24 +67,24 @@ This project delivers a seamless dashboard experience that visualizes key metric
 │   └── insights_generator.py
 ├── app.py
 └── README.md
-</pre>
+</code></pre>
 
 <hr>
 
 <h2>🚀 How to Run Locally</h2>
 <ol>
-  <li>Clone the repository:<br>
-  <code>git clone https://github.com/yashkakadiya021/ADmyBRAND_insight_Analysis.git</code><br>
-  <code>cd ADmyBRAND_insight_Analysis</code>
+  <li>Clone the repository:
+    <pre><code>git clone https://github.com/yashkakadiya021/ADmyBRAND_insight_Analysis.git
+cd ADmyBRAND_insight_Analysis</code></pre>
   </li>
-  <li>Install dependencies:<br>
-  <code>pip install -r requirements.txt</code>
+  <li>Install dependencies:
+    <pre><code>pip install -r requirements.txt</code></pre>
   </li>
-  <li>Run the app:<br>
-  <code>python app.py</code>
+  <li>Run the app:
+    <pre><code>python app.py</code></pre>
   </li>
-  <li>Open your browser and go to:<br>
-  <code>http://127.0.0.1:5000/</code>
+  <li>Open your browser and go to:
+    <pre><code>http://127.0.0.1:5000/</code></pre>
   </li>
 </ol>
 
