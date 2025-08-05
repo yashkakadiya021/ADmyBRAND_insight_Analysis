@@ -23,6 +23,9 @@ This project delivers a seamless dashboard experience that visualizes key metric
   <li>🌐 <strong>Web-Hosted Interface</strong>: Deployed using Manus.Space for live access and easy sharing.</li>
 </ul>
 
+<img width="648" height="723" alt="ADmyBRAND Insight Analysis 🚀 - visual selection (1)" src="https://github.com/user-attachments/assets/23252910-fa6c-4e9c-a9da-4a146a617511" />
+
+
 <hr>
 
 <h2>🧠 Tech Stack</h2>
@@ -103,6 +106,8 @@ cd ADmyBRAND_insight_Analysis</code></pre>
   <li>Customizable filters & search</li>
   <li>Intuitive user experience with animated transitions and interactive charts.</li>
 </ul>
+
+<img width="730" height="633" alt="ADmyBRAND Insight Analysis 🚀 - visual selection" src="https://github.com/user-attachments/assets/e19b4083-6b58-415c-b596-2279bdc622fb" />
 
 <hr>
 
